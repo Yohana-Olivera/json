@@ -4,35 +4,35 @@
          "id": 1,
          "image": "https://randomuser.me/api/portraits/men/17.jpg",
          "nombre": "Eduardo Lopez",
-         "calificación": "⭐⭐⭐⭐⭐",
+         "calificación": "Calificación: ⭐⭐⭐⭐⭐",
          "review": "Excelente atención, son profecionales, cordiales y entendieron a la perfección lo que necesitaba"
       },
       {
          "id": 2,
          "image": "https://randomuser.me/api/portraits/men/62.jpg",
          "nombre": "Agusto Chesini",
-         "calificación": "⭐⭐⭐⭐⭐",
+         "calificación": "Calificación: ⭐⭐⭐⭐⭐",
          "review": "1000% Recomendados excelente atención, excelente servicio!. Calidad ante todo en las manos de Miguel y Manuel"
       },
       {
          "id": 3,
          "image": "https://randomuser.me/api/portraits/men/0.jpg",
          "nombre": "Ricardo Selva",
-         "alificación": "⭐⭐⭐⭐⭐",
+         "alificación": "Calificación: ⭐⭐⭐⭐⭐",
          "review": "La Mejor barbería el mejor lugar la atención inigualable y los cortes perfectos"
       },
       {
          "id": 4,
          "image": "https://randomuser.me/api/portraits/men/41.jpg",
          "nombre": "Pablo Monezuela",
-         "calificación": "⭐⭐⭐⭐",
+         "calificación": "Calificación: ⭐⭐⭐⭐",
          "review": "Cómo siempre, muy buena atencion, buena música y buen ambiente. Recomendable!"
       },
       {
          "id": 5,
          "image": "https://randomuser.me/api/portraits/women/17.jpg",
          "nombre": "Sara Lee",
-         "calificación": "⭐⭐⭐⭐⭐",
+         "calificación": "Calificación: ⭐⭐⭐⭐⭐",
          "review": "Lleve a mi hijo por un corte de cabello y la verdad me sorprendió la excelente atencion y paciencia que tienen con los niños. Sin dudas regresaremos!!"
       },
 
